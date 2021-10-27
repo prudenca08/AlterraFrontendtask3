@@ -1,0 +1,35 @@
+* {
+  font-family: "Slabo 27px", serif;
+}
+.wrapper {
+  margin-left: 40%;
+  font-size: 20px;
+  color: white;
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  width: 350px;
+  justify-content: space-between;
+}
+
+.red-box {
+  padding: 10px;
+  margin: 15px;
+  background-color: red;
+  width: 100px;
+}
+.blue-box {
+  padding: 10px;
+  margin: 15px;
+  background-color: blue;
+  width: 100px;
+}
+
+.green-box {
+  padding: 20px;
+  margin: 15px;
+  background-color: green;
+  width: 350px;
+  height: 350px;
+  border-radius: 20px;
+}
