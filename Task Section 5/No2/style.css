@@ -1,0 +1,39 @@
+* {
+  font-family: "Times New Roman", Times, serif;
+}
+body {
+  background-image: url("img/sample-pattern.png");
+}
+h1 {
+  text-align: center;
+  margin-bottom: 60px;
+  font-weight: bolder;
+  color: #586071;
+}
+.isi {
+  background-color: white;
+  padding: 50px;
+  margin: auto;
+  width: 500px;
+  padding: 50px;
+}
+hr {
+  color: grey;
+  size: 3px;
+}
+h3 {
+  color: skyblue;
+}
+p {
+  padding: 10px 0px 20px 0px;
+  color: rgb(49, 49, 49);
+}
+
+.footers {
+  background-color: rgb(31, 31, 31);
+  font-family: "Times New Roman", Times, serif;
+  padding: 20px;
+  margin: 0;
+  color: rgb(243, 243, 243);
+  text-align: center;
+}
